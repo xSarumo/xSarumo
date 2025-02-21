@@ -1,4 +1,4 @@
-# Приветствую! Я SarumoBNK <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+# Приветствую! Я Sarumo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
 ![Весёлая GIF](https://media.giphy.com/media/l41lFjUI5B7OG6Gze/giphy.gif)
 
@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_telegram)
 [![VK](https://img.shields.io/badge/-VK-4680C2?style=flat&logo=vk&logoColor=white)](https://vk.com/ваша_страница)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_профиль)
-[![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ваш-email@gmail.com)
+[![Mail](https://img.shields.io/badge/-Mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sarumo0@yandex.ru)
 
 <br/>
 
