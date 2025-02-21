@@ -1,6 +1,6 @@
 # Приветствую! Я Sarumo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-![Весёлая GIF]([https://media.giphy.com/media/l41lFjUI5B7OG6Gze/giphy.gif](https://media.giphy.com/media/KeBF2Z8m1r88hbC5ks/giphy.gif))
+![Весёлая GIF]([https://media.giphy.com/media/KeBF2Z8m1r88hbC5ks/giphy.gif])
 
 Меня увлекает:
 1. ⚙️ **Проектирование «опасных» киллер-фич**  
