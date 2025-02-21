@@ -1,8 +1,7 @@
 # Приветствую! Я Sarumo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-<p align="center">
-  <img src="https://tenor.com/ru/view/onuko-onuko521-animecore-cutecore-anime-gif-3984498930393455731" width="300">
-</p>
+![Onuko GIF](https://media.tenor.com/OP3VTeHVlJgAAAAC/onuko-onuko521.gif)
+
 
 
 Меня увлекает:
