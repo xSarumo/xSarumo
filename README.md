@@ -31,6 +31,8 @@
 
 <br/>
 
+<iframe frameborder="0" allow="clipboard-write" style="border:none;width:614px;height:556px;" width="614" height="556" src="https://music.yandex.ru/iframe/playlist/Sarumo0/1000">Слушайте <a href="https://music.yandex.ru/playlists/e55328a7-2a65-7537-bf08-5e0ebfb2e6f1">Разбитые сердца💔</a> — <a href="https://music.yandex.ru/users/Sarumo0">Sarumo0</a> на Яндекс Музыке</iframe>
+
 ## 🚩 Контакты и социальные сети
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/ваш_telegram)
