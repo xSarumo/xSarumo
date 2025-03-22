@@ -1,4 +1,4 @@
-# Приветствую! Я Sarumo <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" width="100" alt="Pikachu">
+# Приветствую! Я Sarumo
 
 ![https://media.tenor.com/OP3VTeHVlJgAAAAC/onuko-onuko521.gif](https://media1.tenor.com/m/jdbF4FrF4xsAAAAC/onuko-onuko521.gif)
 
