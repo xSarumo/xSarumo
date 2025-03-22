@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Статистика
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarumoBNK&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarumoBNK&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
