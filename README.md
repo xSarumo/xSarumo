@@ -8,9 +8,9 @@
 
 ## 📊 GitHub Статистика
 
-[![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&show_icons=true&theme=tokionight)](https://github.com/anuraghazra/github-readme-stats) [![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br/>
