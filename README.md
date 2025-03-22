@@ -33,7 +33,7 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
   </tr>
 </table>
 
-## 📊 GitHub Статистика
+## 📊 GitHub Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarumoBNK&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
