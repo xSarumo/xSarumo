@@ -1,9 +1,8 @@
-# Приветствую! Я Sarumo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+# Приветствую! Я Sarumo ![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
 ![https://media.tenor.com/OP3VTeHVlJgAAAAC/onuko-onuko521.gif](https://media1.tenor.com/m/jdbF4FrF4xsAAAAC/onuko-onuko521.gif)
 
 
-![Pikachu](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png)
-*(Изображение взято из [PokeAPI](https://pokeapi.co/))*
+
 <br/>
 
 ## 📊 GitHub Статистика
