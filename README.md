@@ -37,7 +37,4 @@ I'm Golang and C++ developer <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarumoBNK&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats) [![Sarumo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarumoBNK&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-<br/>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
