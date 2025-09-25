@@ -14,8 +14,12 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <br><b>C++</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="50" alt="Kotlin">
-      <br><b>Kotlin</b>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50" alt="C#">
+      <br><b>C#</b>
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_logo.png" width="50" alt="Java">
+      <br><b>Java</b>
     </td>
     <td align="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/300px-Python-logo-notext.svg.png" width="50" alt="Python">
@@ -29,7 +33,6 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="60" alt="HTML5">
       <br><b>HTML5</b>
     </td>
-
   </tr>
 </table>
 
