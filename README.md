@@ -14,11 +14,11 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <br><b>C++</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="50" alt="C#">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" height="50" alt="C#">
       <br><b>C#</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_logo.png" width="50" alt="Java">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_Logo.png" width="60" height="50" alt="Java">
       <br><b>Java</b>
     </td>
     <td align="center">
