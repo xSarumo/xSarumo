@@ -14,7 +14,7 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <br><b>C++</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" height="50" alt="C#">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="80" height="80" alt="C#">
       <br><b>C#</b>
     </td>
     <td align="center">
