@@ -18,7 +18,7 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <br><b>C#</b>
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Java_Logo.png" width="60" height="50" alt="Java">
+      <img src="https://images.seeklogo.com/logo-png/15/1/java-logo-png_seeklogo-158094.png" width="60" height="50" alt="Java">
       <br><b>Java</b>
     </td>
     <td align="center">
