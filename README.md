@@ -22,7 +22,7 @@ I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF
       <br><b>Java</b>
     </td>
     <td align="center">
-      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/300px-Python-logo-notext.svg](https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821153136%21Python-logo-notext.svg)" width="50" alt="Python">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821153136%21Python-logo-notext.svg" width="50" alt="Python">
       <br><b>Python</b>
     </td>
     <td align="center">
