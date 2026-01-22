@@ -1,6 +1,6 @@
 # <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="65"> Hello! I'm **Sarumo** <img src="https://media.tenor.com/hW_mTYy_zS4AAAAi/gojo-satoru.gif" width="65">
 
-I'm **Golang** and **C++** developer <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="25">
+<img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="25">
 
 ## I have experience in developing on:
 <table>
