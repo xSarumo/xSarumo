@@ -6,6 +6,6 @@
     <img src="https://skillicons.dev/icons?i=go,cpp,cs,java,python,ts,git,docker" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xSarumo&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
