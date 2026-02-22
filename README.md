@@ -7,14 +7,14 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0 10px;">
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSarumo&theme=tokyonight" alt="Languages" />
       </a>
     </td>
-    <td>
+    <td style="border: none; padding: 0 10px;">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" />
     </td>
   </tr>
