@@ -7,6 +7,6 @@
   </a>
 </p>
 
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xSarumo&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
