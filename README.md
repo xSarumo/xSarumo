@@ -7,8 +7,17 @@
   </a>
 </p>
 
-[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSarumo&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSarumo&theme=tokyonight" alt="Languages" />
+      </a>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
