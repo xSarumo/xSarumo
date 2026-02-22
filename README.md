@@ -1,13 +1,11 @@
 # <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="25"> Hello! I'm **Sarumo** <img src="https://media.tenor.com/TCMWkxIkF9IAAAAi/dancing-gopher.gif" width="25">
 
-
-
 <h3 align="left">My tech stack:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,cpp,java,cs,html,css,js,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=go,cpp,cs,java,python,ts,git,docker" />
   </a>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
