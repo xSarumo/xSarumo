@@ -7,6 +7,6 @@
   </a>
 </p>
 
-[![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=xSarumo&layout=donut&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=xSarumo&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
