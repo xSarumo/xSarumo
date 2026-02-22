@@ -9,9 +9,9 @@
 
 <div style="white-space: nowrap;">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSarumo&theme=tokyonight" alt="Languages" style="border: 0;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xSarumo&theme=tokyonight" alt="Languages" style="border:0;"/>
   </a>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" style="border: 0; display: inline-block;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" style="border:0;display:inline-block;"/>
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
