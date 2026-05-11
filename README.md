@@ -12,7 +12,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" style="border:0;display:inline-block;"/>
   </a>
   
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KAGA-KOKO&layout=compact&langs_count=8&theme=tokio" alt="Languages" style="border:0;"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight" alt="Languages" style="border:0;"/>
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
