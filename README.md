@@ -9,11 +9,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=xSarumo&show_icons=true&theme=tokyonight&hide_border=false"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=xSarumo&show_icons=true&theme=tokyonight&hide_border=true&card_width=210"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </div>
