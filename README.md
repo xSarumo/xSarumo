@@ -7,12 +7,19 @@
   </a>
 </p>
 
-<div style="white-space: nowrap;">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" style="display: inline-block; margin-right: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight" alt="GitHub Stats" style="border:0;display:inline-block;"/>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight"
+      alt="GitHub Stats"
+      height="200"
+    />
   </a>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight" alt="Languages" style="border:0;"/>
-</div>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight"
+    alt="Languages"
+    height="200"
+  />
+</p>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
