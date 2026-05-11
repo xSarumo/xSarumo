@@ -7,17 +7,17 @@
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=xSarumo&show_icons=true&theme=tokyonight&hide_border=false&card_width=450"
+    height="200"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=xSarumo&show_icons=true&theme=tokyonight&hide_border=false&card_width=450"
     alt="GitHub Stats"
-    height="200"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&card_width=450"
-    alt="Top Languages"
     height="200"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&card_width=450"
+    alt="Top Languages"
   />
-</p>
+</div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" /> </div>
