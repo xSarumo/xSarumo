@@ -9,14 +9,14 @@
 
 <p align="center">
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=xSarumo&show_icons=true&theme=tokyonight&hide_border=false&card_width=450"
     alt="GitHub Stats"
-    height="210"
+    height="200"
   />
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&card_width=450"
-    alt="Languages"
-    height="210"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&card_width=450"
+    alt="Top Languages"
+    height="200"
   />
 </p>
 
