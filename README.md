@@ -8,17 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight"
-      alt="GitHub Stats"
-      height="200"
-    />
-  </a>
   <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xSarumo&theme=tokyonight"
+    alt="GitHub Stats"
+    height="210"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xSarumo&layout=compact&langs_count=8&theme=tokyonight&card_width=450"
     alt="Languages"
-    height="200"
+    height="210"
   />
 </p>
 
