@@ -19,7 +19,3 @@
     alt="Top Languages"
   />
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SarumoBNK&color=blue" alt="Profile Views" />
-</div>
